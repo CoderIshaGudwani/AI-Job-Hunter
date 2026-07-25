@@ -24,7 +24,7 @@ AI Job Hunter is a React application that helps streamline the software job sear
 ## Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Job-Hunter.git
+git clone https://github.com/CoderIshaGudwani/AI-Job-Hunter.git
 cd AI-Job-Hunter
 npm install
 npm run dev
